@@ -25,7 +25,6 @@ The communities and posts below include content that has been curated by 0x team
 
 ### User Onboarding and Learning Resources
 
--   [The 0x Portal](https://0x.org/portal)
 -   [Welcome to the 0x Community](https://blog.0xproject.com/welcome-to-the-0x-community-9d99dfe0a52b)
 -   [Beginners Guide to 0x](https://blog.0xproject.com/a-beginners-guide-to-0x-81d30298a5e0)
 -   [Why Decentralized Exchange Protocols Matter](https://medium.com/@FEhrsam/why-decentralized-exchange-protocols-matter-58fb5e08b320)
@@ -43,6 +42,7 @@ The communities and posts below include content that has been curated by 0x team
 
 ### Videos
 
+-   [0x Learn: 0x Protocol Smart Contracts (Playlist)](https://www.youtube.com/playlist?list=PLN51Tjs40v5PIm4avEo1m2Uz08qj0YWPa)
 -   [Fluidity Summit 2018: 0x Version 2.0 (May 14, 2018)](https://www.youtube.com/watch?v=9JaFSPeo-Go)
 -   [Every call you take. Every change you make. I’ll be watching you! - Leonid Logvinov (Dec 21, 2017)](https://www.youtube.com/watch?feature=youtu.be&v=pUm2HHWuywc&app=desktop)
 -   [0x: An Open Protocol Approach to Decentralized Exchange (Nov 29, 2017)](https://www.youtube.com/watch?v=Ub8Qakn37sg&feature=youtu.be)
