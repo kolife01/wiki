@@ -2,20 +2,22 @@ These lists are composed of projects that publicly announced their interest in u
 
 ### List of dApps that will be (or are) using the 0x protocol
 
+* [Ambo](https://ambo.io)
 * [Aragon](https://aragon.org/)
 * [Auctus](https://auctus.org/)
 * [Augur](https://www.augur.net/)
 * [Balance](https://www.balance.io)
-* [bZx](https://bzx.network/)
+* [Blitz Predict](https://www.blitzpredict.io/)
 * [Blocknet](https://blocknet.co/)
-* [ChronoBank](https://chronobank.io/)
+* [bZx](https://bzx.network/)
 * [Coinbase Wallet](https://wallet.coinbase.com)
 * [CoinGecko](https://coingecko.com)
-* [Emoon](https://www.emoon.io)
 * [Dharma](https://dharma.io/)
 * [District0x](https://district0x.io/)
 * [dYdX](https://dydx.exchange/)
 * [EasyTrade](https://easytrade.io/)
+* [Emoon](https://www.emoon.io)
+* [FabrX](https://www.fabrx.io/)
 * [Gods Unchained](https://godsunchained.com/)
 * [Hut34 Project](https://hut34.io/)
 * [Lendroid](https://www.lendroid.com/)
@@ -24,13 +26,14 @@ These lists are composed of projects that publicly announced their interest in u
 * [MyCrypto](https://mycrypto.com/)
 * [OpenANX](https://www.oax.org/)
 * [Paradigm Protocol](https://paradigm.market/)
+* [Pixura](https://pixura.io/)
 * [Request Network](https://request.network/)
+* [RexRelay](https://www.rexrelay.com/)
 * [Set](https://www.setprotocol.com/)
 * [Settle Finance](https://settle.finance)
 
 ### List of relayers that will be (or are) using the 0x protocol
 
-* [Amadeus](https://amadeusrelay.org)
 * [Bamboo Relay](https://www.bamboorelay.com/)
 * [ERC dEX](https://ercdex.com)
 * [EtherBlockchain.io](https://etherblockchain.io)
@@ -46,7 +49,7 @@ These lists are composed of projects that publicly announced their interest in u
 * [The Ocean](https://theocean.trade)
 * [Token Jar](https://tokenjar.io/)
 * [Tokenlon](https://tokenlon.token.im/)
-* [Weswap](https://www.weswap.io/)
+* [Fordex](https://www.fordex.co/)
 
 ### List of 0x trade explorers
 
