@@ -72,6 +72,8 @@ Codepen [example](https://codepen.io/bmillman19/pen/qQzQQK)
 | networkId                      | Id of Ethereum network to connect to. Defaults to 1 (mainnet).                                                                                                                                                                                                                                                                                       |
 | affiliateInfo                  | An object specifying what % ETH fee should be added to orders and where the fee should be sent. Max feePercentage is .05 (See examples below)                                                                                                                                                                                                        |
 | shouldDisableAnalyticsTracking | An option to turn on / off analytics used to make Instant a better experience. Defaults to false.                                                                                                                                                                                                                                                    |
+| onSuccess | a function handler that is called when the token purchase through 0x Instant is complete. The function handler requests one argument: the transaction hash.                                                                                                                                                                                                                                                                                       |
+| onClose | a function handler that is called when the Instant overlay is closed. The function handler does not request any argument                                                                                                                                                                                                                                                                                       |
 
 ### Examples
 
@@ -140,6 +142,20 @@ zeroExInstant.render(
             feeRecipient: '0x50ff5828a216170cf224389f1c5b0301a5d0a230',
             feePercentage: 0.03,
         },
+    },
+    'body',
+);
+```
+
+#### Providing your own callback handler
+
+```javascript
+zeroExInstant.render(
+    {
+        orderSource: 'https://api.radarrelay.com/0x/v2/',
+        onSuccess: (txHash) => {
+            console.log('Success! Transaction hash is: ' + txHash)
+        }
     },
     'body',
 );
