@@ -43,7 +43,7 @@ For projects writing in Javascript/typescript, we have published the [@0x/contra
 
 -   AssetProxyOwner: [0x1da52d1d3a3acfa0a1836b737393b4e9931268fc](https://rinkeby.etherscan.io/address/0x1da52d1d3a3acfa0a1836b737393b4e9931268fc)
 -   ERC20Proxy: [0x3e809c563c15a295e832e37053798ddc8d6c8dab](https://rinkeby.etherscan.io/address/0x3e809c563c15a295e832e37053798ddc8d6c8dab)
--   ERC721Proxy: [0x8e1ff02637cb5e39f2fa36c14706aa348b065b09](https://rinkeby.etherscan.io/address/0x8e1ff02637cb5e39f2fa36c14706aa348b065b09)
+-   ERC721Proxy: [0x7656D773e11ff7383A14dCf09a9c50990481Cd10](https://rinkeby.etherscan.io/address/0x7656D773e11ff7383A14dCf09a9c50990481Cd10)
 -   Exchange: [0x22ebc052f43a88efa06379426120718170f2204e](https://rinkeby.etherscan.io/address/0x22ebc052f43a88efa06379426120718170f2204e)
 -   Forwarder: [0xd2dbf3250a764eaaa94fa0c84ed87c0edc8ed04e](https://rinkeby.etherscan.io/address/0xd2dbf3250a764eaaa94fa0c84ed87c0edc8ed04e)
 -   OrderValidator: [0x39c3fc9f4d8430af2713306ce80c584752d9e1c7](https://rinkeby.etherscan.io/address/0x39c3fc9f4d8430af2713306ce80c584752d9e1c7)
